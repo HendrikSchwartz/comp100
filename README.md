@@ -1,1 +1,1 @@
-# comp100
+# comp100 homework project
